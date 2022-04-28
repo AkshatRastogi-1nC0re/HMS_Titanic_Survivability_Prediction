@@ -1,0 +1,2 @@
+# HMS_Titanic_Survivability_Prediction
+The goal of this project is to create a machine learning models in order to forecast which people survived the shipwreck. The response variable Survived will be modeled in specific, given 10 different predictors. The rest of this paper goes through the procedures that were used to create the predictive model. We'll create models to forecast which individuals are more likely to survive. Also, compare the models to see which is the most effective.
